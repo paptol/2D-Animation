@@ -1,0 +1,15 @@
+﻿{
+  "version": "2.3.0",
+  "output": "Warning",
+  "ignore": [],
+  "options": {
+    "bitwise": true,
+    "eval": true,
+    "for": true,
+    "multivar": true,
+    "single": true,
+    "this": true,
+    "white": true
+  },
+  "globalVariables": []
+}
